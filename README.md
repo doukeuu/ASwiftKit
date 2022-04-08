@@ -22,7 +22,7 @@ pod 'ASwiftKit'
 
 ## Author
 
-panwei, panwei@sanshaoxingqiu.cn
+pan
 
 ## License
 
