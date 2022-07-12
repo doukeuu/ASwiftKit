@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ASwiftKit
 //
-//  Created by panwei on 04/08/2022.
-//  Copyright (c) 2022 panwei. All rights reserved.
+//  Created by ssbm on 04/08/2022.
+//  Copyright (c) 2022 CocoaPods. All rights reserved.
 //
 
 import UIKit

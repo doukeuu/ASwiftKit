@@ -1,6 +1,6 @@
 # ASwiftKit
 
-[![CI Status](https://img.shields.io/travis/panwei/ASwiftKit.svg?style=flat)](https://travis-ci.org/panwei/ASwiftKit)
+[![CI Status](https://img.shields.io/travis/doukeuu/ASwiftKit.svg?style=flat)](https://travis-ci.org/doukeuu/ASwiftKit)
 [![Version](https://img.shields.io/cocoapods/v/ASwiftKit.svg?style=flat)](https://cocoapods.org/pods/ASwiftKit)
 [![License](https://img.shields.io/cocoapods/l/ASwiftKit.svg?style=flat)](https://cocoapods.org/pods/ASwiftKit)
 [![Platform](https://img.shields.io/cocoapods/p/ASwiftKit.svg?style=flat)](https://cocoapods.org/pods/ASwiftKit)
@@ -22,7 +22,7 @@ pod 'ASwiftKit'
 
 ## Author
 
-pan
+doukeuu
 
 ## License
 

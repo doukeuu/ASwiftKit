@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## ASwiftKit
 
-Copyright (c) 2022 panwei <panwei@sanshaoxingqiu.cn>
+Copyright (c) 2022 doukeuu <doukeuu@126.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
